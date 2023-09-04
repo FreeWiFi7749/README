@@ -11,8 +11,6 @@
 
 - 👯 I’m looking to collaborate on **let me know if you want made a discord bot(but my skills is not better😅)**
 
-- 🤝 I’m looking for help with [TempVoice Japanese Translate](https://github.com/FreeWiFi7749/Translation)
-
 - 💬 Ask me about **something!**
 
 - 📫 How to reach me **https://holofanpro.com/invite/hfs**
