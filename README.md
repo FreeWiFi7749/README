@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=freewifi7749&label=Profile%20views&color=0e75b6&style=flat" alt="freewifi7749" /> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/hfs_hikoushiki" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/hfs_hikoushiki?logo=twitter&style=for-the-badge" alt="https://twitter.com/hfs_hikoushiki" /></a> </p>
+<p align="left"> <a href="https://twitter.com/hfs_hikoushiki" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/hfs_hikoushiki?logo=twitter&style=for-the-badge" alt="https://twitter.com/hfs_hikoushiki" /></a> </p>
 
 - 🔭 I’m currently working on [admin HFS Discord Server](https://holofanpro.com/invite/hfs)
 
